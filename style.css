@@ -37,3 +37,14 @@ body{
     color: #999;
 
 }
+
+#new-task{
+    width: 100%;
+    padding: 10px;
+}
+
+#new-task:focus{
+    border-bottom-color: sandybrown;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
